@@ -9,3 +9,6 @@ Adquiri conhecimento em:
 * Remoção, Delegação e Animação
 * Filtrando uma tabela
 * AjaxBuscando pacientes com AJAX
+
+
+![tabela-imc](https://user-images.githubusercontent.com/89804906/222143156-3fb78d63-4db9-4878-8f16-a62a1b6f6f7f.png)
