@@ -11,4 +11,5 @@ Adquiri conhecimento em:
 * AjaxBuscando pacientes com AJAX
 
 
-![tabela-imc](https://user-images.githubusercontent.com/89804906/222143156-3fb78d63-4db9-4878-8f16-a62a1b6f6f7f.png)
+![tabela-imc](https://user-images.githubusercontent.com/89804906/222145850-401f6431-8771-4ad0-971f-0388778f8be7.png)
+
